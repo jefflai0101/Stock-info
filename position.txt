@@ -1,0 +1,13 @@
+Price		19
+NC		20
+C%		21
+Bid		22
+Ask		23
+P/E		24
+
+High		31
+Low		32
+PC		33
+Volume		34
+Turnover	35
+LotSize		36

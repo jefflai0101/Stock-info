@@ -1,0 +1,31 @@
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\bin\Release\Stock Info.exe
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\bin\Release\Stock Info.pdb
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\bin\Release\Stock Info.xml
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Interop.ADODB.dll
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.vbproj.ResolveComReference.cache
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.Resources.resources
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.exe
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.xml
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.pdb
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.Analysis.resources
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.picpath.resources
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.passchange.resources
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.Portfolio.resources
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.Mainmenu.resources
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.StockQuote.resources
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.Background.resources
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.Login.resources
+C:\Users\Jeff\Documents\Programs\VB.net\Stock info\Stock Info\obj\x86\Release\StockInfo.newupdate.resources
+C:\Users\Jeff\Documents\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Interop.ADODB.dll
+C:\Users\Jeff\Documents\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.vbproj.ResolveComReference.cache
+C:\Users\Jeff\Documents\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.exe
+C:\Users\Jeff\Documents\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.xml
+C:\Users\Jeff\Documents\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.pdb
+D:\Works\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Interop.ADODB.dll
+D:\Works\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.vbproj.ResolveComReference.cache
+D:\Works\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.exe
+D:\Works\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.xml
+D:\Works\Programs\.Net Programs\VB.net\Stock info\Stock Info\obj\x86\Release\Stock Info.pdb

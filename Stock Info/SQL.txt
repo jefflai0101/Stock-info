@@ -1,0 +1,24 @@
+Private Sub btnSearchTitles_Click(ByVal sender As Object, ByVal e As System.EventArgs)
+' database connection string
+Dim DBConnection As String = Provider = SQLOLEDB;uid = sa;password = password;database = Pubs;DataSource = local
+' sql statment
+Dim SQL As String = "select title_id,title,type,price from Titles where title like '%" + txtTitles.Text.ToString() + "%' order by title" '
+'create ADODB Connection object
+Dim Conn As New ADODB.Connection
+'create ADODB Recordset object
+Dim rs As New ADODB.Recordset
+'create OleDb Adapter object
+Dim daTitles As New OleDbDataAdapter
+' finally Dataset to store returned recordset
+Dim dsTitles As New DataSet("Authors")
+'open connection with the string as above
+Conn.Open(DBConnection, "", "", -1)
+'execute the query specifying static sursor, batch optimistic locking
+rs.Open(SQL, DBConnection, ADODB.CursorTypeEnum.adOpenStatic, ADODB.LockTypeEnum.adLockBatchOptimistic, 1)
+'use the overloaded version of Fill method which takes recordset as parameter
+daTitles.Fill(dsTitles, rs, "Tiltes")
+'bind datagrid to dataset
+dataGridTitles.SetDataBinding(dsTitles, "Tiltes")
+'close the connection
+Conn.Close()
+End Sub 'btnSearchTitles_Click
